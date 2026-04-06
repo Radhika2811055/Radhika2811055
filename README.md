@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Radhika 👋</h1>
 <p align="center">
   <b>Full-Stack Developer (MERN) · CS Undergrad </b><br/>
-  <sub>Building real-world web products · Open to placement opportunities · Delhi-NCR, India</sub>
+  <sub>Building real-world web products · Open to placement & internship opportunities · Delhi-NCR, India</sub>
 </p>
 
 <p align="center">
