@@ -19,12 +19,12 @@
 
 I'm a third-year Computer Science student at **KIET Deemed to be University, Ghaziabad** who focuses on building **real-world, production-ready applications**.
 
-- 🎧 Currently building: **Shantikunj Audiobooks LMS** — a full-stack platform with role-based workflows for Recorders, Checkers & Editors (real client project)
-- 🎵 Also building: **Music Streaming Web App** *(in progress)* — modern UI, real-time playback & scalable backend
-- 🐍 Python projects: Face recognition attendance system, Linux-based monitoring tool with REST APIs & alerts
-- 📚 Practicing: **DSA in C++** daily for placements (LeetCode)
-- 🏅 Microsoft Learn Student Ambassador & former Generative AI Intern (KIET × Microsoft)
-- 📄 Published Indian Patent: *Automated Waste Segregation System*
+- Currently building: **Shantikunj Audiobooks LMS** — a full-stack platform with role-based workflows for Recorders, Checkers & Editors (real client project)
+- Also building: **Music Streaming Web App** *(in progress)* — modern UI, real-time playback & scalable backend
+- Python projects: Face recognition attendance system, Linux-based monitoring tool with REST APIs & alerts
+- Practicing: **DSA in C++** daily for placements (LeetCode)
+- Microsoft Learn Student Ambassador & former Generative AI Intern (KIET × Microsoft)
+- Published Indian Patent: *Automated Waste Segregation System*
 
 > *"Building things that actually work — one commit at a time."*
 
@@ -54,35 +54,35 @@ I'm a third-year Computer Science student at **KIET Deemed to be University, Gha
 
 ### 🧩 Featured Projects
 
-#### 🎧 Shantikunj Audiobooks LMS *(In Progress)*
+#### Shantikunj Audiobooks LMS *(In Progress)*
 > Full-stack audiobook management platform built for a real client. Features role-based access, admin dashboard, and workflow automation.
 
 `React` `Node.js` `Express` `MongoDB` `REST APIs`
 
 ---
 
-#### 🎵 Music Streaming Web App *(In Progress)*
+#### Music Streaming Web App *(In Progress)*
 > A modern music listening platform with dynamic UI, audio controls, and scalable backend architecture.
 
 `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` *(planned features: playlists, auth, streaming)*
 
 ---
 
-#### ♻️ Automated Waste Segregation System *(Patent Published)*
+#### Automated Waste Segregation System *(Patent Published)*
 > Smart system designed to automatically classify and segregate waste using intelligent processing techniques, improving efficiency and reducing manual effort. Recognized as an Indian Patent (Application No. 202511002752 A).
 
 `Python` `Embedded Concepts` `Automation`
 
 ---
 
-#### 📸 Face Recognition Attendance System
+#### Face Recognition Attendance System
 > Automated attendance system using real-time face detection with OpenCV and MySQL integration.
 
 `Python` `OpenCV` `MySQL`
 
 ---
 
-#### 🖥️ Linux-Based System Monitoring Tool
+#### Linux-Based System Monitoring Tool
 > Python application that tracks CPU, memory, disk & processes, exposes metrics via REST APIs, and triggers threshold-based alerts.
 
 `Python` `FastAPI` `Linux` `Bash` `REST APIs`
