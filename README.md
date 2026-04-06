@@ -91,7 +91,9 @@ I'm a third-year Computer Science student at **KIET Deemed to be University, Gha
 
 ### 📊 GitHub Stats
 
-<!-- Removed broken stats images -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radhika2811055&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+</p>
 
 ---
 
