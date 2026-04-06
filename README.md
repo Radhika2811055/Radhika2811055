@@ -68,10 +68,10 @@ I'm a third-year Computer Science student at **KIET Deemed to be University, Gha
 
 ---
 
-#### 🖥️ Linux-Based System Monitoring Tool
-> Python application that tracks CPU, memory, disk & processes, exposes metrics via REST APIs, and triggers threshold-based alerts.
+#### ♻️ Automated Waste Segregation System *(Patent Published)*
+> Smart system designed to automatically classify and segregate waste using intelligent processing techniques, improving efficiency and reducing manual effort. Recognized as an Indian Patent (Application No. 202511002752 A).
 
-`Python` `FastAPI` `Linux` `Bash` `REST APIs`
+`Python` `Embedded Concepts` `Automation`
 
 ---
 
@@ -81,6 +81,14 @@ I'm a third-year Computer Science student at **KIET Deemed to be University, Gha
 `Python` `OpenCV` `MySQL`
 
 ---
+
+#### 🖥️ Linux-Based System Monitoring Tool
+> Python application that tracks CPU, memory, disk & processes, exposes metrics via REST APIs, and triggers threshold-based alerts.
+
+`Python` `FastAPI` `Linux` `Bash` `REST APIs`
+
+---
+
 
 ### 📊 GitHub Stats
 
