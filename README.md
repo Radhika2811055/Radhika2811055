@@ -104,15 +104,15 @@ I'm a third-year Computer Science student at **KIET Deemed to be University, Gha
 
 ### 🏆 Achievements & Certifications
 
-- 🥈 **Runner-Up** — Pysight "Dive into Computer Vision"
-- 🎖️ **Top 100** — Women Engineers Scholarship Program
-- ☁️ **Participant** — Google Cloud Arcade Facilitator Program
-- ☁️ **AWS Certified Cloud Practitioner**
-- ☁️ **Google Cloud Digital Leader (Foundational)**
-- 📜 NPTEL: Programming and Data Structures in Python
-- 📜 Infosys: Unix & Operating Systems Fundamentals
-- 📜 Infosys Springboard: Programming with Java
-- 📜 Palo Alto Networks: Cybersecurity Certification
+- **Runner-Up** — Pysight "Dive into Computer Vision"
+- **Top 100** — Women Engineers Scholarship Program
+- **Participant** — Google Cloud Arcade Facilitator Program
+- **AWS Certified Cloud Practitioner**
+- **Google Cloud Digital Leader (Foundational)**
+- NPTEL: Programming and Data Structures in Python
+- Infosys: Unix & Operating Systems Fundamentals
+- Infosys Springboard: Programming with Java
+- Palo Alto Networks: Cybersecurity Certification
 
 ---
 
